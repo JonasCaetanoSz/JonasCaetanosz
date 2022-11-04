@@ -12,8 +12,10 @@
 - 📫 How to reach me **jonascaetanodesouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://instagram.com/jonascaetano16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonascaetano16" height="30" width="40" /></a>
+<a href="https://t.me/jonjon102" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86696196/200077264-efb71149-ac18-4282-ab61-696302d895fc.svg" alt="jonjon102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
