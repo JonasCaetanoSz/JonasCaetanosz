@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonascaetanosz&show_icons=true&locale=en&layout=compact&theme=merko" alt="jonascaetanosz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonascaetanosz&show_icons=true&locale=en&theme=merko" alt="jonascaetanosz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonascaetanosz&show_icons=true&locale=en&theme=merko" alt="jonascaetanosz " /></p>
